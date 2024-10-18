@@ -19,8 +19,8 @@
 - All harmonized 3 note chords
 - Root note for all chords is symbolised by a rectangle. Useful to use for playing bass notes.
 - This includes the harmonized diminished chords (in grey) which is usually less useful
-- Optional but real fun to use : All parallel chords (swaps between major and minor chords) symbolized as smaller circles.
-- Hit the small circle alternative instead of the bigger one.
+- Optional but real fun to use : All parallel chords (swaps between major and minor chords) symbolized as smaller circles. Hit the small circle alternative instead of the bigger one.
+- Chord progression relative notation with Roman numbers is supported (example do **vi IV I V** for Avicii wake me up). See the cheat sheet on the left of the strip 
 
 # How to print
 - You can print the strip as a PDF file yourself at home
