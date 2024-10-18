@@ -43,19 +43,22 @@ In case the PDF generator don't work, you can download the base version from the
 - a ruler with milimeter display
 - about 5-15 min of time to assemble (very easy)
 
-# Improvements and enhancements, maybe for future or alternative versions. What do you think?
-- Try this : add the 4 note chords. For jazzy sound. I have tested the concept it works.
+# Improvements and enhancements you can do yourself, maybe for future or alternative versions. What do you think?
+- Try this : add the 4 note chords. For jazzy sound. I have tested it works.
 - Try this : add the suspended chords
 - Try this : add the 6th chords
 - remove the diminished chords for simplicity
 - remove the parallel chords for simplicity
 - black and white strip : I have tried it. It works but it's less fun
+- add roman numbers directly on the root notes. I tried it it works, but you need 2 versions, one for major and one for minor, plus one for all the modes you like. Up to you.
 
 # Want more from this? Explore the modes. Here is a quick reminder
-1. **Ionian** (Root note is the black rectangle with red inside): This is your standard major scale. **Happy and bright**.
+1. **Ionian** (Root note is the black rectangle with red inside ![image](https://github.com/user-attachments/assets/793473ca-9364-4b57-acfd-4bb66c171d23)
+): This is your standard major scale. **Happy and bright**.
 2. Dorian: Minor with a bit of a jazzy feel.
 3. Phrygian: Minor with a Spanish flair.
 4. Lydian: Major with a dreamy quality, thanks to the raised fourth.
 5. Mixolydian: Major with a bluesy twist, due to the lowered seventh.
-6. **Aeolian** (Root note is the black rectangle with blue inside): Your natural minor scale. **Sad and somber**.
+6. **Aeolian** (Root note is the black rectangle with blue inside ![image](https://github.com/user-attachments/assets/ed583ddd-0087-42f3-b30c-d9995efb3a03)
+): Your natural minor scale. **Sad and somber**.
 7. Locrian: Dark and unsettling, with a diminished fifth.
