@@ -29,9 +29,9 @@ by Hippolyte Mounier, 2024
 - Move your fingers, locate another group of 3 markers either with a different color or on a different line, repeat
 - All your notes are in harmony.
 - Remember: Don't mix colors
-- Remember : Don't cross lines
+- Remember: Don't cross lines
 
-# With practice
+# With more practice
 - You can add a second hand to play along with your first hand. The same rules apply for the second hand.
 - You can add for example a single bass note using your left hand (rectangle notes are the root notes of the chord and are usually better for this)
 - You can choose a Tonal note (blackened rectangle, red is Ionian for happy, blue is Eolian for sad). Start, finish and move around this special note to set a mood. 
