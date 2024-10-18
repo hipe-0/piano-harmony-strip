@@ -13,10 +13,11 @@
 - Fun !
 - All 12 musical key
 - All 7 musical modes
-- 2 Black marks highlight the root note for Ionian and Aeolian (major and minor modes)
+- 2 Black marks highlight the root note for Ionian and Aeolian (major and minor modes). You can accentuate your playing on those chords to set a specific mood.
 - Simple color code: Red for major, blue for minor
 - All inversions
 - All harmonized 3 note chords
+- Root note for all chords is symbolised by a rectangle. Useful to use for playing bass notes.
 - This includes the harmonized diminished chords (in grey) which is usually less useful
 - Optional but real fun to use : All parallel chords (swaps between major and minor chords) symbolized as smaller circles.
 - Hit the small circle alternative instead of the bigger one.
@@ -50,3 +51,11 @@ In case the PDF generator don't work, you can download the base version from the
 - remove the parallel chords for simplicity
 - black and white strip : I have tried it. It works but it's less fun
 
+# Want more from this? Explore the modes. Here is a quick reminder
+1. **Ionian** (Root note is the black rectangle with red inside): This is your standard major scale. **Happy and bright**.
+2. Dorian: Minor with a bit of a jazzy feel.
+3. Phrygian: Minor with a Spanish flair.
+4. Lydian: Major with a dreamy quality, thanks to the raised fourth.
+5. Mixolydian: Major with a bluesy twist, due to the lowered seventh.
+6. **Aeolian** (Root note is the black rectangle with blue inside): Your natural minor scale. **Sad and somber**.
+7. Locrian: Dark and unsettling, with a diminished fifth.
