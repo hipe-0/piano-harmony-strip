@@ -19,7 +19,7 @@ by Hippolyte Mounier, 2024
 - Home Printing: Adjust PDF to keyboard size via the [PDF generator](https://hipe-0.github.io/piano-harmony-strip/index.html).
 - Materials Needed: A4/letter paper, scissors, glue, printer, piano, ruler, 5-15 mins assembly.
 
-![image](https://github.com/user-attachments/assets/50101862-e52e-4919-b2ba-2cfa712984e7)
+![image](https://github.com/user-attachments/assets/d376860b-ecf5-40b8-9601-576941c7f2ec)
 
 # How to use (beginer)
 - Place your strip anywhere on the top of the keyboard, sitting on the black keys
