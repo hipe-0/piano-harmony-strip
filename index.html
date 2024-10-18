@@ -29,8 +29,17 @@
 
             for (const page of pages) {
                 const { width, height } = page.getSize();
-                page.setSize(width * scaleFactor, height * scaleFactor);
-                page.scale(scaleFactor, scaleFactor);
+                // Scale the page size (canvas size)
+                const newWidth = width * scaleFactor;
+                const newHeight = height * scaleFactor;
+
+                // Set the new size for the page
+                page.setSize(newWidth, newHeight);
+                
+                //page.scale(scaleFactor, scaleFactor);
+
+                // Apply scale transformation to the content inside the page
+                page.scaleContent(scaleFactor, scaleFactor);
             }
 
             // Save the scaled PDF
