@@ -22,23 +22,33 @@ by Hippolyte Mounier, 2024
 ![image](https://github.com/user-attachments/assets/d376860b-ecf5-40b8-9601-576941c7f2ec)
 
 # How to use (beginer)
-- Place your strip anywhere on the top of the keyboard, sitting on the black keys
-- Fold and push the tip of the left label between 2 notes so that it locked in place and doesn't move too easily.
-- Locate 3 piano notes side by side with same color on the same line. (Ignore the small circles at first)
-- Hit the 3 notes either together or in succession (arpeggio)
-- Move your fingers, select another group of 3 notes either different color or different line, you choose, repeat
+- Place your strip at the base of the keys, sitting on the black keys. Align to the notes.
+- Fold and stick the tip of the left label between 2 notes. This will prevent the strip to move freely.
+- Locate 3 colored markers on one line with same color. (Ignore the small circles at first)
+- Hit the the corresponding 3 notes on the piano. You can play them either together (chord) or in succession (arpeggio)
+- Move your fingers, locate another group of 3 markers either with a different color or on a different line, repeat
 - All your notes are in harmony.
-- Remember: Don't mix colors, it will not sound good
-- Remember : Don't cross lines, it will not sound good
-- Add a second hand to play along with your first hand. Apply the same rules. you can add for example a single bass note (rectangle notes are better than rounded notes for this)
-- Choose a root note (blackened rectangle, red for happy, blue for sad). Start, finish and move around this note to set a mood. 
-- Hit the small circles instead of the big notes to add harmonic variety (parallel chord, it swaps major / minor chord)
-- Advanced and fun: perform a full tonal change like a pro by sliding the strip by x notes either left or right for a few chords and then come back (try x= 2, 5 or 7 to sound smoothest, feel free to experiment)
+- Remember: Don't mix colors
+- Remember : Don't cross lines
+
+# With practice
+- You can add a second hand to play along with your first hand. The same rules apply for the second hand.
+- You can add for example a single bass note using your left hand (rectangle notes are the root notes of the chord and are usually better for this)
+- You can choose a Tonal note (blackened rectangle, red is Ionian for happy, blue is Eolian for sad). Start, finish and move around this special note to set a mood. 
+- You can Hit the small circles instead of the big markers to add **harmonic variety** (parallel chord, it swaps between major / minor chord)
+- Advanced and fun: perform a full **tonal change** like a pro by sliding the strip by x notes either left or right for a few chords and then come back (x= 2, 5 or 7 to sound smoothest, feel free to experiment)
 
   
-# Improvements and enhancements you can do
+# Improvements and enhancements to the strip you can do
 - Add 4-note chords to the strip for jazzy sounds.
 - Include suspended and 6th chords to the strip.
 - Remove diminished (grey notes) or parallel chords (small circles) if you don't like them or for a more simple approach.
 - Print in Black & white.
 - Add Roman numerals on root notes.
+
+
+# Conclusion
+Hoping this project will be as fun for you as it was for me to create. You may also have learned something useful ? Let's discuss.
+
+# License
+- I dedicate all materials to Public Domain. Read the License if any questions.
