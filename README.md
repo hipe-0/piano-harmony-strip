@@ -22,13 +22,11 @@ by Hippolyte Mounier, 2024
 # Start the PDF generator now, link below
 https://hipe-0.github.io/piano-harmony-strip/index.html
 
-In case the PDF generator don't work, you can download the base version from the repository and scale the PDF yourself using an online tool or your printer setting
-
 ![image](https://github.com/user-attachments/assets/50101862-e52e-4919-b2ba-2cfa712984e7)
 
-# Improvements and enhancements
-- Add 4-note chords for jazzy sounds.
-- Include suspended and 6th chords.
-- Optionally remove diminished/parallel chords for simplicity.
-- Black & white version available.
+# Improvements and enhancements you could do (with a pen?)
+- Add 4-note chords to the strip for jazzy sounds.
+- Include suspended and 6th chords to the strip.
+- Remove diminished/parallel chords if you don't like them.
+- Print in Black & white.
 - Add Roman numerals on root notes.
