@@ -1,12 +1,16 @@
-# Harmony guide to print for any piano size
+# A Fun Harmony guide to print yourself for any piano size
   by Hippolyte Mounier, 2024
 
-# features
 
-- This strip can guide you in your melodic exploration of the keyboard.
-- Instant inspiration.
-- Easy: No musical experience needed. Not even piano experience needed.
-- Fun
+![image](https://github.com/user-attachments/assets/fb1200bb-87b1-4d79-9293-5d27271177d8)
+
+# Features
+
+- This strip can guide you in your melodic exploration of the keyboard
+- Use it for chords, for arpeggios, for chord progressions, for melody
+- Instant inspiration !
+- Easy: No musical experience needed. Not even piano experience needed
+- Fun !
 - All 12 musical key
 - All 7 musical modes
 - 2 Black marks highlight the root note for Ionian and Aeolian (major and minor modes)
@@ -28,3 +32,11 @@ https://hipe-0.github.io/piano-harmony-strip/index.html
 # Alternative to the generator: 
 In case the PDF generator don't work, you can download the base version from the repository and scale the PDF yourself using an online tool or your printer setting
 
+![image](https://github.com/user-attachments/assets/50101862-e52e-4919-b2ba-2cfa712984e7)
+
+Bill of Material:
+- 1 sheet of paper (A4 or letter format is ok)
+- Cisors
+- Glue
+- a printer
+- a piano or piano keyboard
