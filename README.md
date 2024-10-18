@@ -1,64 +1,34 @@
-# A Fun Harmony guide to print yourself for any piano size
-  by Hippolyte Mounier, 2024
+# Fun Harmony guide for any piano size
+by Hippolyte Mounier, 2024
 
 
 ![image](https://github.com/user-attachments/assets/fb1200bb-87b1-4d79-9293-5d27271177d8)
 
 # Features
 
-- This strip can guide you in your melodic exploration of the keyboard
-- Use it for chords, for arpeggios, for chord progressions, for melody
-- Instant inspiration !
-- Easy: No musical experience needed. Not even piano experience needed
-- Fun !
-- All 12 musical key
-- All 7 musical modes
-- 2 Black marks highlight the root note for Ionian and Aeolian (major and minor modes). You can accentuate your playing on those chords to set a specific mood.
-- Simple color code: Red for major, blue for minor
-- All inversions
-- All harmonized 3 note chords
-- Root note for all chords is symbolised by a rectangle. Useful to use for playing bass notes.
-- This includes the harmonized diminished chords (in grey) which is usually less useful
-- Optional but real fun to use : All parallel chords (swaps between major and minor chords) symbolized as smaller circles. Hit the small circle alternative instead of the bigger one.
-- Chord progression relative notation with Roman numbers is supported (example do **vi IV I V** for Avicii wake me up). See the cheat sheet on the left of the strip 
+- Explore the Keyboard: Use for chords, arpeggios, chord progressions, melodies.
+- Instant Inspiration: No musical or piano experience needed.
+- Comprehensive: All 12 musical keys and 7 modes.
+- Root Notes: Black marks for Ionian (major) and Aeolian (minor) modes.
+- Color-Coded: Red for major, blue for minor.
+- Chord Inversions: All 3-note chords, including diminished (grey).
+- Parallel Chords: Swap major/minor with smaller circles.
+- Roman Numeral Notation: For easy chord progressions.
 
 # How to print
-- You can print the strip as a PDF file yourself at home
-- A generator will adapt the PDF size to your keyboard size. You can enter any keyboard size in the interface.
+- Home Printing: Adjust PDF to keyboard size via the [PDF generator](https://hipe-0.github.io/piano-harmony-strip/index.html).
+- Materials Needed: A4/letter paper, scissors, glue, printer, piano, ruler, 5-15 mins assembly.
 
 # Start the PDF generator now, link below
 https://hipe-0.github.io/piano-harmony-strip/index.html
 
-# Alternative to the generator: 
 In case the PDF generator don't work, you can download the base version from the repository and scale the PDF yourself using an online tool or your printer setting
 
 ![image](https://github.com/user-attachments/assets/50101862-e52e-4919-b2ba-2cfa712984e7)
 
-# Bill of Material:
-- a single sheet of paper (A4 or letter format is ok)
-- Cisors
-- Glue
-- a printer
-- a piano or piano keyboard
-- a ruler with milimeter display
-- about 5-15 min of time to assemble (very easy)
-
-# Improvements and enhancements you can do yourself, maybe for future or alternative versions. What do you think?
-- Try this : add the 4 note chords. For jazzy sound. I have tested it works.
-- Try this : add the suspended chords
-- Try this : add the 6th chords
-- remove the diminished chords for simplicity
-- remove the parallel chords for simplicity
-- black and white strip : I have tried it. It works but it's less fun
-- add roman numbers directly on the root notes. I tried it it works, but you need 2 versions, one for major and one for minor, plus one for all the modes you like. Up to you.
-
-# Want more from this? Explore the modes. Here is a quick reminder
-1. **Ionian** (Root note is the black rectangle with red inside ![image](https://github.com/user-attachments/assets/793473ca-9364-4b57-acfd-4bb66c171d23)
-): This is your standard major scale. **Happy and bright**.
-2. Dorian: Minor with a bit of a jazzy feel.
-3. Phrygian: Minor with a Spanish flair.
-4. Lydian: Major with a dreamy quality, thanks to the raised fourth.
-5. Mixolydian: Major with a bluesy twist, due to the lowered seventh.
-6. **Aeolian** (Root note is the black rectangle with blue inside ![image](https://github.com/user-attachments/assets/ed583ddd-0087-42f3-b30c-d9995efb3a03)
-): Your natural minor scale. **Sad and somber**.
-7. Locrian: Dark and unsettling, with a diminished fifth.
+# Improvements and enhancements
+- Add 4-note chords for jazzy sounds.
+- Include suspended and 6th chords.
+- Optionally remove diminished/parallel chords for simplicity.
+- Black & white version available.
+- Add Roman numerals on root notes.
