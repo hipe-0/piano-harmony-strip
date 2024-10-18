@@ -25,7 +25,7 @@ by Hippolyte Mounier, 2024
 - Place your strip anywhere on the top of the keyboard, sitting on the black keys
 - Fold and push the tip of the left label between 2 notes so that it locked in place and doesn't move too easily.
 - Locate 3 piano notes side by side with same color on the same line. (Ignore the small circles at first)
-- Hit the note either together or in succession (arpeggio)
+- Hit the 3 notes either together or in succession (arpeggio)
 - Move your fingers, select another group of 3 notes either different color or different line, you choose, repeat
 - All your notes are in harmony.
 - Remember: Don't mix colors, it will not sound good
