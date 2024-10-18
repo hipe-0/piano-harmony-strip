@@ -1,23 +1,24 @@
 <html>
 <body>
     <h3>PDF Piano Harmony Strip Scale Generator</h3>
-    <label for="pdfSelect">Choose a PDF to Scale:</label>
+    <label for="pdfSelect">Choose a harmony strip to Scale:</label>
     <select id="pdfSelect">
-        <option value="pdf/base-strip.pdf">File 1</option>
+        <option value="pdf/base-strip.pdf">Base strip, blue and red</option>
 
         <!-- Add more PDF options as needed -->
     </select>
     <br>
-    <label for="scaleFactor">Enter Scale Factor:</label>
-    <input type="number" id="scaleFactor" value="1" step="0.1">
+    <label for="OctaveDistance">Measure 7 white keys on your keyboard with a ruler (your Octave to Octave distance) in milimeter:</label>
+    <input type="number" id="OctaveDistance" value="165" step="1.0">
     <br><br>
-    <button type="button" onclick="scalePdf()">Scale and Download</button>
+    <button type="button" onclick="scalePdf()">Scale PDF and Download</button>
 
     <script src="https://unpkg.com/pdf-lib"></script>
     <script>
         async function scalePdf() {
             const pdfSelect = document.getElementById('pdfSelect').value;
-            const scaleFactor = parseFloat(document.getElementById('scaleFactor').value);
+            const BASE_OCTAVE_TO_OCTAVE_DISTANCE = 165.0;
+            const scaleFactor = parseFloat(document.getElementById('OctaveDistance').value) / BASE_OCTAVE_TO_OCTAVE_DISTANCE;
 
             // Fetch the selected PDF
             const response = await fetch(pdfSelect);
@@ -35,7 +36,7 @@
 
                 // Set the new size for the page
                 page.setSize(newWidth, newHeight);
-                
+
                 //page.scale(scaleFactor, scaleFactor);
 
                 // Apply scale transformation to the content inside the page
