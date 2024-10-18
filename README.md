@@ -24,7 +24,6 @@
 # How to print
 - You can print the strip as a PDF file yourself at home
 - A generator will adapt the PDF size to your keyboard size. You can enter any keyboard size in the interface.
-- Future versions could include 4 note chords for jazzy sound. I have tested the concept it works.
 
 # Start the PDF generator now, link below
 https://hipe-0.github.io/piano-harmony-strip/index.html
@@ -34,9 +33,20 @@ In case the PDF generator don't work, you can download the base version from the
 
 ![image](https://github.com/user-attachments/assets/50101862-e52e-4919-b2ba-2cfa712984e7)
 
-Bill of Material:
-- 1 sheet of paper (A4 or letter format is ok)
+# Bill of Material:
+- a single sheet of paper (A4 or letter format is ok)
 - Cisors
 - Glue
 - a printer
 - a piano or piano keyboard
+- a ruler with milimeter display
+- about 5-15 min of time to assemble (very easy)
+
+# Improvements and enhancements, maybe for future or alternative versions. What do you think?
+- Try this : add the 4 note chords. For jazzy sound. I have tested the concept it works.
+- Try this : add the suspended chords
+- Try this : add the 6th chords
+- remove the diminished chords for simplicity
+- remove the parallel chords for simplicity
+- black and white strip : I have tried it. It works but it's less fun
+
