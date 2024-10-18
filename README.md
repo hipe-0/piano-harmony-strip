@@ -33,7 +33,7 @@ by Hippolyte Mounier, 2024
 - Add a second hand to play along with your first hand. Apply the same rules. you can add for example a single bass note (rectangle notes are better than rounded notes for this)
 - Choose a root note (blackened rectangle, red for happy, blue for sad). Start, finish and move around this note to set a mood. 
 - Hit the small circles instead of the big notes to add harmonic variety (parallel chord, it swaps major / minor chord)
-- Advanced and fun: perform a full tonal change like a pro by sliding the strip by x notes either left or right for a few chords and then come back (try x= 2, 6, 7 to sound smooth, feel free to experiment)
+- Advanced and fun: perform a full tonal change like a pro by sliding the strip by x notes either left or right for a few chords and then come back (try x= 2, 5 or 7 to sound smoothest, feel free to experiment)
 
   
 # Improvements and enhancements you can do
