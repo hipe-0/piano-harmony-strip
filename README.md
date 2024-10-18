@@ -16,7 +16,7 @@ by Hippolyte Mounier, 2024
 - Roman Numeral Notation: For easy chord progressions.
 
 # How to print
-- Home Printing: Adjust PDF to keyboard size via the [PDF generator](https://hipe-0.github.io/piano-harmony-strip/index.html).
+- Home Printing: Adjust PDF to your keyboard size via the [PDF generator](https://hipe-0.github.io/piano-harmony-strip/index.html).
 - Materials Needed: A4/letter paper, scissors, glue, printer, piano, ruler, 5-15 mins assembly.
 
 ![image](https://github.com/user-attachments/assets/d376860b-ecf5-40b8-9601-576941c7f2ec)
